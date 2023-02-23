@@ -1,0 +1,23 @@
+<meta>
+	<info type="script" name="roadsign" author="Krons" version="1.0.0"/>
+	
+	<oop>true</oop>
+	
+    <script src="object.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" />
+	<file src="texRep.fx" type="client" />
+	
+	<file src="sign.txd" />
+    <file src="sign.dff" />
+    <file src="sign.col" />
+	
+	<file src="tex/DoNotEnterSign.png" type="client" />
+	<file src="tex/spd30.png" type="client" />
+	<file src="tex/restricted.png" type="client" />
+	<file src="tex/respark.png" type="client" />
+	<file src="tex/spd60.png" type="client" />
+	<file src="tex/radar.png" type="client" />
+	<file src="tex/stoppol.png" type="client" />
+	<file src="tex/stop.png" type="client" />
+	<file src="tex/crosswalk.png" type="client" />
+</meta>
